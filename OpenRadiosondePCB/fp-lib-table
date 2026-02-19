@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad")(type "KiCad")(uri "/home/pawel/Downloads/SI4468-A2A-IMR/KiCad.pretty")(options "")(descr ""))
+  (lib (name "CustomLibs")(type "KiCad")(uri "${KIPRJMOD}/CustomLibs.pretty")(options "")(descr ""))
+)
