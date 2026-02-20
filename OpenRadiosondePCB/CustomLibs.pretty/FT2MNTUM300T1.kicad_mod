@@ -1,0 +1,245 @@
+(footprint "FT2MNTUM300T1"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "FT2MNTUM-30.0-T1-1")
+	(tags "Crystal or Oscillator")
+	(property "Reference" "Y**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "f232b472-6f97-4459-96cb-146bc8784dd8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "FT2MNTUM300T1"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7fddaef5-31fd-4a46-869a-91cb21459367")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2c7c0ba2-6c03-4612-9479-7a90d64804dc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dbed5d8e-0c09-482d-8b4a-85f4365aedb7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.925 1.6)
+		(end -0.925 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3e24811c-f763-4b32-b20d-433b9410d05a")
+	)
+	(fp_line
+		(start -0.925 1.7)
+		(end -0.925 1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4e8334e7-7e66-41a9-8425-3dbd5bfc5aa1")
+	)
+	(fp_line
+		(start -0.2 -1)
+		(end 0.2 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "20ed0eaa-c345-4aa7-80f0-173b386938b6")
+	)
+	(fp_line
+		(start -0.2 1)
+		(end 0.2 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "daea39c5-24cc-42a8-ac27-40dba1e50b7c")
+	)
+	(fp_arc
+		(start -0.925 1.6)
+		(mid -0.875 1.65)
+		(end -0.925 1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dde4c534-9a90-4a6c-b723-c1835412f5db")
+	)
+	(fp_arc
+		(start -0.925 1.7)
+		(mid -0.975 1.65)
+		(end -0.925 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "917621b2-4d28-41a7-b6e4-e4a9f3dc5bb1")
+	)
+	(fp_line
+		(start -2.425 -2.175)
+		(end 2.425 -2.175)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "67965d4b-060a-406e-b29b-5b3a17151b0b")
+	)
+	(fp_line
+		(start -2.425 2.175)
+		(end -2.425 -2.175)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d7a69d3f-cc87-4ff3-a891-9cb97950f4cd")
+	)
+	(fp_line
+		(start 2.425 -2.175)
+		(end 2.425 2.175)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cc1d1b16-9562-4815-aa72-e611faff3024")
+	)
+	(fp_line
+		(start 2.425 2.175)
+		(end -2.425 2.175)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7af6ea2a-5acb-453c-a8ff-27359f97923b")
+	)
+	(fp_line
+		(start -1.25 -1)
+		(end -1.25 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9e7f75ff-9c45-4981-bfab-824e4a4b399c")
+	)
+	(fp_line
+		(start -1.25 1)
+		(end 1.25 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0d38192c-35c5-45c5-8735-302c7881d49b")
+	)
+	(fp_line
+		(start 1.25 -1)
+		(end -1.25 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a73f9db1-d9bc-4819-99de-b896ed6f8af1")
+	)
+	(fp_line
+		(start 1.25 1)
+		(end 1.25 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f5647e31-90b3-4b7d-a70f-01c879052445")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "bf92b20e-4444-4157-b853-22116f36f5c8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.925 0.7 90)
+		(size 0.95 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "53127d0a-33b4-452d-98c9-6ae573dcd510")
+	)
+	(pad "2" smd rect
+		(at 0.925 0.7 90)
+		(size 0.95 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "91b0e4e8-a02c-4f70-ba66-86133e5b61c0")
+	)
+	(pad "3" smd rect
+		(at 0.925 -0.7 90)
+		(size 0.95 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2763862f-13d9-4a2d-8b28-9b184dc679d9")
+	)
+	(pad "4" smd rect
+		(at -0.925 -0.7 90)
+		(size 0.95 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0e06e082-1408-4a51-ab39-6ecae5307a60")
+	)
+	(embedded_fonts no)
+	(model "FT2MNTUM-30.0-T1.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
