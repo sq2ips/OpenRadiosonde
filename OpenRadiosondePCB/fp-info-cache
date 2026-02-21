@@ -1,4 +1,4 @@
-27101805677549243
+27103577302250121
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59758,6 +59758,13 @@ Crystal or Oscillator
 0
 4
 4
+CustomLibs
+PCM12SMTBR
+PCM12SMTBR-1
+Switch
+0
+7
+7
 CustomLibs
 QFN50P400X400X90-21N
 Package Outline: Si4468/7
