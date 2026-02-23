@@ -1,0 +1,131 @@
+(footprint "LPS3015"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "LPS3015")
+	(tags "Inductor")
+	(property "Reference" "L**"
+		(at -0.38594 -0.02986 0)
+		(layer "F.SilkS")
+		(uuid "effa5d3f-5d01-4f95-9e53-9aad438052e8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "LPS3015"
+		(at -0.38594 -0.02986 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "44f4e6fb-8f5b-4c19-8bbf-45481496d38f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89094a77-e4f0-477e-a6da-782e3c8d4a07")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63cb2934-d9bf-46b7-96c9-86ffeefb3cda")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -2.057 -0.03)
+		(end -2.057 0.027)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "31eb1071-5aa0-4c07-880b-30504f868d68")
+	)
+	(fp_line
+		(start -1.475 -1.475)
+		(end 1.475 -1.475)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d81485e6-e5da-493a-ad96-ab6d144b428c")
+	)
+	(fp_line
+		(start -1.475 1.475)
+		(end -1.475 -1.475)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "278aa498-3ed4-4df8-aacf-12ac9b0e6c2d")
+	)
+	(fp_line
+		(start 1.475 -1.475)
+		(end 1.475 1.475)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1ef6e3b1-3dac-4e21-95b3-6be538ffd4cc")
+	)
+	(fp_line
+		(start 1.475 1.475)
+		(end -1.475 1.475)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2ed47108-9b43-452e-a5a8-f7e92fa40826")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.38594 -0.02986 0)
+		(layer "F.Fab")
+		(uuid "57def94c-2892-41e4-83df-d04d3796586d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.08 0)
+		(size 1.14 3.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b56929ba-cc14-44d9-a56e-285c6a97eefc")
+	)
+	(pad "2" smd rect
+		(at 1.08 0)
+		(size 1.14 3.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d7cecbab-3cd2-44ac-b958-7babb913e3bc")
+	)
+	(embedded_fonts no)
+)

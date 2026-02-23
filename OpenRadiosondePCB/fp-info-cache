@@ -1,4 +1,4 @@
-27105348982644955
+27108892705864956
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59752,12 +59752,26 @@ ceramic
 3
 3
 CustomLibs
+1140084168
+1140084168-3
+Connector
+0
+14
+14
+CustomLibs
 FT2MNTUM300T1
 FT2MNTUM-30.0-T1-1
 Crystal or Oscillator
 0
 4
 4
+CustomLibs
+LPS3015
+LPS3015
+Inductor
+0
+2
+2
 CustomLibs
 PCM12SMTBR
 PCM12SMTBR-1
